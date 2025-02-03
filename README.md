@@ -1,3 +1,13 @@
+In Src Module Main files are App.js and MoodTracker.js
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
